@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-## Deployed Website Link -> http://rohitsparksbank.great-site.net/
+## Deployed Website Link -> https://spotifyshubh625.github.io/bank1/
   
 1. Fork the respo (Give ⭐ incase you like the work)
 2. Clone the repo in your local machine.
